@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="982" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1363" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 16 repositories
+                            Contributed to 15 repositories
                         </div>
                     </section>
                 </div>
@@ -83,7 +83,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            209 Commits
+                            210 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -291,6 +291,132 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 30 commits in
+                                        <span class="repo">zhuzhux/earthworm</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#63d7f0b</div>
+                                        <div class="message">fix: set username when no username of new user</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#922187e</div>
+                                        <div class="message">feat: add tips for the reset button of game(#663)
+
+* fix: add tips for the reset button
+
+* fix: update icon z-index
+
+* chore: review
+
+---------
+
+Co-authored-by: BaboonKing &lt;changfan.xu.up@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0eb6cc8</div>
+                                        <div class="message">feat: add device tip on Phone or Pad (#521)
+
+* feat: add device tip
+
+* fix: change tip words
+
+* fix: change name "useMessageTip" to "useDeviceTip"
+
+* feat: show message when click startEarthworm
+
+* fix: ipad detect bug
+
+* fix: detect service bug
+
+* chore: remove log
+
+---------
+
+Co-authored-by: BaboonKing &lt;changfan.xu.up@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ffca59</div>
+                                        <div class="message">ci: fixed PR not running ci</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#181e0ed</div>
+                                        <div class="message">chore: update pnpm version to v9(#653)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a107452</div>
+                                        <div class="message">refactor: modify course-pack item title style</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a2b35d7</div>
+                                        <div class="message">chore: remove  spare pnpm-lock.yaml (#667)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ccf8d8a</div>
+                                        <div class="message">fix: misaligned style of 'Start Earthworm' button (#660)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5a97783</div>
+                                        <div class="message">refactor: extract play word sound hook into audio file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8dda59f</div>
+                                        <div class="message">docs: fix course02.json course data (#650)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b1f485f</div>
+                                        <div class="message">chore: correct site title</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fc446e6</div>
+                                        <div class="message">feat: add cover for course pack</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#16f6993</div>
+                                        <div class="message">refactor: change image path</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b6d14e0</div>
+                                        <div class="message">refactor: change file name</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8488a52</div>
+                                        <div class="message">refactor: change image path</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f6908a</div>
+                                        <div class="message">refactor: better data requests</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d916ed</div>
+                                        <div class="message">refactor: return fields</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#682b9c0</div>
+                                        <div class="message">fix: complete api need check auth</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5494487</div>
+                                        <div class="message">refactor: cache audio content and buffer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9673ea6</div>
+                                        <div class="message">feat: answer page support play single word sound close #616 (#619)
+
+Co-authored-by: fengstats &lt;feng2860984180@163.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 35 commits in
                                         <span class="repo">zhuzhux/earthworm</span>
                                     </div>
@@ -453,7 +579,7 @@ Co-authored-by: fengstats &lt;feng2860984180@163.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 May 2024, 08:08:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 May 2024, 08:08:52 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
