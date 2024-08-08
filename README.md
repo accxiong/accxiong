@@ -12,3 +12,12 @@
 <code><img src="https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript"/></code>
 <code><img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript"/></code>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 🚀 Contribution
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg" />
+  <img alt="github-snake" src="./assets/contribution-snake.svg" />
+</picture>
