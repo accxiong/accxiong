@@ -1,19 +1,23 @@
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuzhux&layout=compact&theme=buefy&hide_border=true" alt="" />
+<div align="center">
 
-### 👋 Hi there, I'm Zhuzhux,
+# Hi, I'm Accxiong 👋
 
-👨🏻‍💻 Full-Stack Developer
+**Full-Stack Developer · TypeScript · Vim**
 
-⌨️ Vimer
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vim-111827?style=flat-square&logo=vim&logoColor=019733" alt="Vim" />
+  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+</p>
 
+</div>
 
-**🌱 I’m currently learning**
+## About
 
-<code><img src="https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript"/></code>
-<code><img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript"/></code>
+Full-stack developer. TypeScript most days. Vim every day.
 
-
-### ⏲️ This week I spent time on...
+## Coding activity
 
 <!--START_SECTION:waka-->
 
@@ -29,9 +33,19 @@ HTML         25 mins               ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-### 🚀 Contribution
+## Contributions
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg" />
-  <img alt="github-snake" src="./assets/contribution-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/contribution-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/contribution-snake.svg"
+  />
+  <img
+    alt="Accxiong contribution snake"
+    src="./assets/contribution-snake.svg"
+  />
 </picture>
