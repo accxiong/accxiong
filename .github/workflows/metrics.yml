@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: zhuzhux
+          user: accxiong
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
